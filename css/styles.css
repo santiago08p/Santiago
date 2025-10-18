@@ -1,7 +1,7 @@
 /* Reset simple */
 * {box-sizing: border-box;margin: 0; padding: 0; font-family: Arial, sans-serif;}
 
-body {padding: 30px; background: #E9967A; color: #FFDEAD;}
+body {padding: 30px; background: #27B0F5; color: #424FA1;}
 
 header h1 {margin-bottom: 20px;}
 
@@ -60,4 +60,5 @@ header h1 {margin-bottom: 20px;}
   0%{background: #ffd166;}
   50%{background: #06d6a0;}
   100%{background: #ffd166;}
+
 }
