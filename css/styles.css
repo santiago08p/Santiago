@@ -5,7 +5,7 @@ body {padding: 30px; background: #27B0F5; color: #424FA1;}
 
 header h1 {margin-bottom: 20px;}
 
-.exercise{background: red;padding: 18px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0,08);margin-bottom: 16px;}
+.exercise{background: blue;padding: 18px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0,08);margin-bottom: 16px;}
 
 .ball{
   width: 60px;height: 60px; border-radius: 50%;
@@ -62,4 +62,5 @@ header h1 {margin-bottom: 20px;}
   100%{background: #ffd166;}
 
 }
+
 
