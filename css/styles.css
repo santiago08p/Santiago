@@ -9,7 +9,7 @@ header h1 {margin-bottom: 20px;}
 
 .ball{
   width: 60px;height: 60px; border-radius: 50%;
-  background: linear-gradient(135deg,#ff7a7a,#ff3d3d);
+  background: linear-gradient(135deg,#27B0F5,#424FA1);
   margin: 30px auto;
   position: relative;
   animation-name: bounce;
@@ -28,14 +28,14 @@ header h1 {margin-bottom: 20px;}
 
 .btn{
   display: inline-block;padding: 12px 22px;border-radius: 8px;
-  background: #3b82f6; color: white; border: none;cursor: pointer;
+  background: #9142A1; color: white; border: none;cursor: pointer;
   transition: transform 200ms ease, box-shadow 200ms ease, background 200ms ease;
 }
 
 .btnM;hover{
   transform: translateY(-4px); scale(1.03);
   box-shadow: 0 8px 20px rgba(59.130.246.0.2);
-  background: #2b6ca6;
+  background: #321A38;
 }
 
 .card{
@@ -62,3 +62,4 @@ header h1 {margin-bottom: 20px;}
   100%{background: #ffd166;}
 
 }
+
